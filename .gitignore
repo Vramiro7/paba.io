@@ -1,1 +1,9 @@
+# 🐍 Python garbage
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.egg-info/
+venv/
+env/
